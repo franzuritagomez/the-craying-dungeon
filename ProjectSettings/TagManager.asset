@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rooms
+  - SpawnPoint
+  - CheckWall
+  - Floor
+  - Wall
+  - Projectile
+  - Door
+  - FullHeart
+  - HalfHeart
+  - DobleFullHeartShop
+  - SimpleCoin
+  - SimpleKey
+  - SimpleBomb
+  - ShopTeleport
+  - Enemy
+  - Pene
+  - CheckPlayerEntered
+  - Room
+  - Bomba_Explosiva
+  - Roca
+  - PortalTienda
+  - PortalSalaItem
+  - Tienda
+  - SalaItem
+  - LlaveTienda
+  - BombaTienda
+  - PortalDungeon
+  - Dungeon
+  - CricketsHead
+  - SadOnion
+  - BloodOfTheMartir
+  - 1up
+  - AllStats
+  - OneHeart
+  - SkeletonKey
+  - Percha
+  - Pentagrama
+  - Palillo
+  - Dollar
+  - PYRO
+  - Trofeo
+  - WinMenu
+  - Tienda_1up
+  - Tienda_AllStats
+  - Tienda_BloodOfTheMartirs
+  - Tienda_CricketsHead
+  - Tienda_Dollar
+  - Tienda_OneHeart
+  - Tienda_Palillo
+  - Tienda_Pentagrama
+  - Tienda_Percha
+  - Tienda_PYRO
+  - Tienda_SadOnion
+  - Tienda_SkeletonKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CollisionCheckwall
+  - Suelo
+  - LayerPlayer
+  - Bomba_Explosiva
+  - Proyectil
+  - Enemigo
+  - ProyectilEnemigo
+  - Puerta
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
