@@ -18,6 +18,8 @@ The Crying Dungeon es un juego de estilo RogueLike en primera persona, fuertemen
 
 - **Sistema de Tienda:** Utiliza las monedas recolectadas para comprar corazones, bombas o llaves en la tienda. También puedes adquirir mejoras de estadísticas sacrificando algunos corazones.
 
+- **Manual de Instrucciones en Inglés Técnico:** El juego incluye un detallado manual de instrucciones que, a su vez, fue mi proyecto final para la asignatura de Inglés Técnico.
+
 ## Instrucciones de Juego
 
 1. **Explora la Dungeon:** Navega a través de las salas generadas proceduralmente enfrentándote a enemigos y recolectando recompensas.
