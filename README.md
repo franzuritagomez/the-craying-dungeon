@@ -32,7 +32,7 @@ The Crying Dungeon es un juego de estilo RogueLike en primera persona, fuertemen
 
 ## Requisitos y Dependencias
 
-- Unity 202X (recomendado)
+- Unity 2021 (recomendado)
 - C# 
 
 ## Instrucciones de Ejecución
