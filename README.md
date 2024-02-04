@@ -37,7 +37,7 @@ The Crying Dungeon es un juego de estilo RogueLike en primera persona, fuertemen
 
 ## Instrucciones de Ejecución
 
-1. Clona el repositorio: `git clone https://github.com/tuusuario/TheCryingDungeon.git`
+1. Clona el repositorio: `https://github.com/franzuritagomez/the-crying-dungeon.git`
 2. Abre el proyecto en Unity.
 3. ¡Disfruta del juego!
 
